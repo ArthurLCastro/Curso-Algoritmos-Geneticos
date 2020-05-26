@@ -1,0 +1,14 @@
+INSERT INTO produtos (nome, espaco, valor, quantidade) VALUES ('Geladeira Dako', 0.751, 999.90, 1);
+INSERT INTO produtos (nome, espaco, valor, quantidade) VALUES ('Iphone 6', 0.0000899, 2199.12, 5);
+INSERT INTO produtos (nome, espaco, valor, quantidade) VALUES ('TV 55', 0.400, 4346.99, 2);
+INSERT INTO produtos (nome, espaco, valor, quantidade) VALUES ('TV 50', 0.290, 3999.90, 3);
+INSERT INTO produtos (nome, espaco, valor, quantidade) VALUES ('TV 42', 0.200, 2999.00, 4);
+INSERT INTO produtos (nome, espaco, valor, quantidade) VALUES ('Notebook Dell', 0.00350, 2499.90, 1);
+INSERT INTO produtos (nome, espaco, valor, quantidade) VALUES ('Ventilador Panasonic', 0.496, 199.90, 10);
+INSERT INTO produtos (nome, espaco, valor, quantidade) VALUES ('Microondas Electrolux', 0.0424, 308.66, 2);
+INSERT INTO produtos (nome, espaco, valor, quantidade) VALUES ('Microondas LG', 0.0544, 429.90, 5);
+INSERT INTO produtos (nome, espaco, valor, quantidade) VALUES ('Microondas Panasonic', 0.0319, 299.29, 3);
+INSERT INTO produtos (nome, espaco, valor, quantidade) VALUES ('Geladeira Brastemp', 0.635, 849.00, 2);
+INSERT INTO produtos (nome, espaco, valor, quantidade) VALUES ('Geladeira Consul', 0.870, 1199.89, 6);
+INSERT INTO produtos (nome, espaco, valor, quantidade) VALUES ('Notebook Lenovo', 0.498, 1999.90, 2);
+INSERT INTO produtos (nome, espaco, valor, quantidade) VALUES ('Notebook Asus', 0.527, 3999.00, 1);
